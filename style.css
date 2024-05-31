@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #taskInput {
+    width: 250px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #taskList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #taskList li {
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
